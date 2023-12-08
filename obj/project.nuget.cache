@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "7NtlZVFZX+DGv6EaZNDwkl5dgXM0aGAAyND4okkuztTrgZ3SybpeFQbOeqi01EOR89pPw5E4DM/s+SMO4KVRjQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\RafaD\\Desktop\\CLASES\\Semi ing software\\0. PROYECTO\\PCs_Maik\\PCs_Maik.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\RafaD\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\RafaD\\.nuget\\packages\\npgsql\\7.0.6\\npgsql.7.0.6.nupkg.sha512",
+    "C:\\Users\\RafaD\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

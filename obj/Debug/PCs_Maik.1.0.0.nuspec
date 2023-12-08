@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>PCs_Maik</id>
+    <version>1.0.0</version>
+    <authors>PCs_Maik</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0-windows7.0">
+        <dependency id="Npgsql" version="7.0.6" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net6.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WindowsForms" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="C:\Users\RafaD\Desktop\CLASES\Semi ing software\0. PROYECTO\PCs_Maik\bin\Debug\net6.0-windows\PCs_Maik.runtimeconfig.json" target="lib\net6.0-windows7.0\PCs_Maik.runtimeconfig.json" />
+    <file src="C:\Users\RafaD\Desktop\CLASES\Semi ing software\0. PROYECTO\PCs_Maik\bin\Debug\net6.0-windows\PCs_Maik.dll" target="lib\net6.0-windows7.0\PCs_Maik.dll" />
+  </files>
+</package>

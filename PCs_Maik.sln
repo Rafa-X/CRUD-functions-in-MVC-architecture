@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PCs_Maik", "PCs_Maik.csproj", "{18290EC1-2A8A-4E77-80C2-66FB49AFE66C}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "InstallerAssistant", "..\InstallerAssistant\InstallerAssistant.vdproj", "{2EA0EC7C-C46C-488D-9DA8-A871EE5ABB9D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18290EC1-2A8A-4E77-80C2-66FB49AFE66C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18290EC1-2A8A-4E77-80C2-66FB49AFE66C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18290EC1-2A8A-4E77-80C2-66FB49AFE66C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18290EC1-2A8A-4E77-80C2-66FB49AFE66C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2EA0EC7C-C46C-488D-9DA8-A871EE5ABB9D}.Debug|Any CPU.ActiveCfg = Debug
+		{2EA0EC7C-C46C-488D-9DA8-A871EE5ABB9D}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CE0D5720-716C-4605-B695-157FADE27FE8}
+	EndGlobalSection
+EndGlobal

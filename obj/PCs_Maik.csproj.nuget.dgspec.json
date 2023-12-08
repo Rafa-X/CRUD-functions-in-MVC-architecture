@@ -1,0 +1,72 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\RafaD\\Desktop\\CLASES\\Semi ing software\\0. PROYECTO\\PCs_Maik\\PCs_Maik.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\RafaD\\Desktop\\CLASES\\Semi ing software\\0. PROYECTO\\PCs_Maik\\PCs_Maik.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\RafaD\\Desktop\\CLASES\\Semi ing software\\0. PROYECTO\\PCs_Maik\\PCs_Maik.csproj",
+        "projectName": "PCs_Maik",
+        "projectPath": "C:\\Users\\RafaD\\Desktop\\CLASES\\Semi ing software\\0. PROYECTO\\PCs_Maik\\PCs_Maik.csproj",
+        "packagesPath": "C:\\Users\\RafaD\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\RafaD\\Desktop\\CLASES\\Semi ing software\\0. PROYECTO\\PCs_Maik\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\RafaD\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "Npgsql": {
+              "target": "Package",
+              "version": "[7.0.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.406\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
