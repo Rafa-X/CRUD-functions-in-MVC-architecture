@@ -35,18 +35,18 @@ The database uses PostgreSQL, the system connects to it through the **localhost*
   - Consultar
     - Enter the ID of the Purchase and press ENTER to consult
     
-- Productos (Products)
+### Productos (Products)
   - Registrar
   - Consultar
     
-- Empleados (Employes)
+### Empleados (Employes)
   - Registrar
   - Consultar
     
-- Mermas (Losses)
+### Mermas (Losses)
   - Registrar
   - Consultar
-    
-- IVA
+
+### IVA
   - Enter the new value for the IVA
   - Press the green button "Registrar IVA"
