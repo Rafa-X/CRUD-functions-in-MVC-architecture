@@ -36,7 +36,8 @@ The database uses PostgreSQL, the system connects to it through the **localhost*
     - Enter the ID of the Purchase and press ENTER to consult
     
 ### Productos (Products)
-  - Registrar
+- Registrar
+  - 
   - Consultar
     
 ### Empleados (Employes)
