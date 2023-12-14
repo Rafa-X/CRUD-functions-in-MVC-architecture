@@ -5,7 +5,7 @@ This system was developed for the use case of a PC components store called: *"PC
 The database uses PostgreSQL, the system connects to it through the **localhost**, modify the line 17 from [Form1.cs](https://github.com/Rafa-X/CRUD-operations-in-MVC-architecture/blob/main/Form1.cs#L17) to adapt your database connection.
 
 <p align="center" style="margin-bottom: 0px;">
-  <img width=20% src="images/ordenador.png" align="center">
+  <img width=50% src="images/main_form.png" align="center">
 </p>
 
 ## Requeriments
